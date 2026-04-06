@@ -1,0 +1,13 @@
+# Virtuelno okruženje - ovo nikada ne ide na GitHub
+venv/
+
+# Python keš fajlovi
+__pycache__/
+.pytest_cache/
+
+# Privremeni podaci (ako si ih slučajno snimio van tmp_path-a)
+*.csv
+*.log
+
+# VS Code podešavanja (opciono)
+.vscode/
